@@ -1,0 +1,10 @@
+1. latest news
+2. gallery
+3.transition or transform animation in the first section
+4. 12 player section with box shadow(minimum 9)
+5. section gap according to figma
+6. responsive for mobile device
+7. 3 thumbnails per row
+8. footer with font awesome icon
+9. copyright icon
+10.

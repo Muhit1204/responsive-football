@@ -88,7 +88,6 @@ nav .content .links{
 }
 
 
-
 h1{
     font-size: 50px;
     font-weight: 700;
@@ -146,7 +145,7 @@ h1{
     transform: translate(-450px, -200px) rotateZ(90deg);
 }
 
-
+ /* hero section ends */
 
 
 
@@ -194,6 +193,8 @@ h1{
     padding-bottom: 15px;
 }
 
+/* player container section ends */
+
 /* Highlight Sections starts */
 
 
@@ -216,8 +217,10 @@ h1{
     height: 427px;
 }
 
-/* Latest news Section start */
+/* Highlight Sections ends */
 
+
+/* Latest news Section start */
 
 
 .blog-container{
@@ -273,6 +276,8 @@ h1{
     padding-bottom: 15px;
 }
 
+/* Latest news Section ends */
+
 /* Newsletter Section Starts */
 
 .newsletter-section{
@@ -294,6 +299,8 @@ h1{
     box-sizing: border-box;
     background-color: #e6e6e6;
  }
+
+ /* Newsletter Section ends */
 
  /* Footer sections starts */
  footer{
@@ -368,6 +375,8 @@ h1{
     color: #e6e6e6;
     font-size: 12px;
 }
+
+/* footer sections ends */
 
 /* media-queries start */
 
